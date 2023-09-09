@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="post_data" value="&#10;function post_data() {&#10;    $post_data = $_POST;&#10;    array_walk_recursive($post_data, function(&amp;$v) {&#10;        $v = addslashes(trim($v));&#10;    });&#10;    return $post_data;&#10;}&#10;" description="$_POST" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
