@@ -18,7 +18,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cqc" value="$con = $db-&gt;connect();&#10;$res_ = $con-&gt;query($sql_);&#10;$con-&gt;close();" description="Connect Query Close" toReformat="true" toShortenFQNames="true">
+  <template name="cqc" value="$con = $db-&gt;connect();&#10;$res_ = $con-&gt;query($sql_);&#10;$n_updated = $con-&gt;affected_rows;&#10;$error = $con-&gt;error;&#10;$errno = $con-&gt;errno;&#10;$con-&gt;close();" description="Connect Query Close" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
