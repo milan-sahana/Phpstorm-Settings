@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="pay.mailmantra.com" id="e9433745-acce-4140-9408-46318d38c098" port="22" nameFormat="DESCRIPTIVE" username="paymailmantra" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
