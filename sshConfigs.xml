@@ -5,6 +5,7 @@
       <sshConfig authType="PASSWORD" host="139.59.34.239" id="1c79876f-a856-42a2-b63e-faefe766c9c6" port="22" nameFormat="DESCRIPTIVE" username="fincopfx" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="139.59.34.239" id="d23216b5-b2b0-4cf9-8170-581075e456be" port="22" nameFormat="DESCRIPTIVE" username="fincopblockchain" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="139.59.34.239" id="bd23b07b-efbe-474e-8d8c-57c57dfaecfa" port="22" nameFormat="DESCRIPTIVE" username="winwinapp100" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="13.235.128.76" id="7c2f6ffe-d186-4127-ad0f-35be466d869f" port="21" nameFormat="DESCRIPTIVE" username="admin_u1" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
